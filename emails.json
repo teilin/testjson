@@ -1,0 +1,6 @@
+{
+    "emails": [
+        { "email": "teis@acos.no", "enabled": true },
+        { "email": "terje@acos.no", "enabled": true }
+    ]
+}
